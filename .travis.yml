@@ -1,0 +1,17 @@
+language: go
+go:
+  - "1.14"
+  - "1.14.x"
+env:
+  - GO111MODULE=on
+
+notifications:
+  email:
+    recipients:
+      - GuGoing@outlook.com
+
+before_install:
+  - go mod tidy
+
+script:
+  - go test
