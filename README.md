@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/gufeijun/easyproxy)[![Build Status](https://travis-ci.com/gufeijun/easyproxy.svg?branch=main)](https://travis-ci.com/gufeijun/easyproxy)
+![GitHub](https://img.shields.io/github/license/gufeijun/easyproxy) [![Build Status](https://travis-ci.com/gufeijun/easyproxy.svg?branch=main)](https://travis-ci.com/gufeijun/easyproxy)
 
 # 介绍
 
