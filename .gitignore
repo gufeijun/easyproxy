@@ -1,5 +1,6 @@
 temp/
 .idea/
+release/
 *.out
 *.exe
 *.out
